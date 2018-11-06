@@ -1,0 +1,25 @@
+"0","install.packages(""stringi"")"
+"2","Installing package into ‘N:/Development/R-3.4.1/Packages’
+(as ‘lib’ is unspecified)
+"
+"1","
+"
+"1","  There is a binary version available but the
+  source version is later"
+"1",":
+"
+"1","       "
+"1"," binary"
+"1"," source"
+"1"," needs_compilation"
+"1","
+stringi"
+"1","  1.1.7"
+"1","  1.2.4"
+"1","              TRUE"
+"1","
+"
+"1","
+"
+"2","Do you want to install from sources the package which needs compilation?
+"

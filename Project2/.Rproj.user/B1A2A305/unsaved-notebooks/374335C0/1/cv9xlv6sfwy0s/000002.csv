@@ -1,0 +1,70 @@
+"0","install.packages(""stringi"")
+"
+"2","Installing package into ‘N:/Development/R-3.4.1/Packages’
+(as ‘lib’ is unspecified)
+"
+"1","
+"
+"1","  There is a binary version available but the
+  source version is later"
+"1",":
+"
+"1","       "
+"1"," binary"
+"1"," source"
+"1"," needs_compilation"
+"1","
+stringi"
+"1","  1.1.7"
+"1","  1.2.4"
+"1","              TRUE"
+"1","
+"
+"1","
+"
+"2","Do you want to install from sources the package which needs compilation?
+"
+"0","y"
+"2","installing the source package ‘stringi’
+
+"
+"2","trying URL 'https://cran.rstudio.com/src/contrib/stringi_1.2.4.tar.gz'
+"
+"2","Content type 'application/x-gzip'"
+"2"," length 17916239 bytes (17.1 MB)
+"
+"2","downloaded 17.1 MB
+
+"
+"1","* installing *source* package 'stringi' ...
+"
+"1","** package 'stringi' successfully unpacked and MD5 sums checked
+"
+"1","./configure.win: Can't open ./configure.win: Bad address
+"
+"1","Warning: running command 'sh ./configure.win' had status 2
+"
+"1","ERROR: configuration failed for package 'stringi'
+"
+"1","* removing 'N:/Development/R-3.4.1/Packages/stringi'
+"
+"1","Warning in "
+"1","install.packages"
+"1"," :
+  "
+"1","running command '""C:/PROGRA~3/App-V/D9F6F9~1/39A679~1/root/bin/x64/R"" CMD INSTALL -l ""N:\Development\R-3.4.1\Packages"" C:\Users\ucfnyls\AppData\Local\Temp\73\RtmpMxmAul/downloaded_packages/stringi_1.2.4.tar.gz' had status 1"
+"1","
+"
+"1","Warning in "
+"1","install.packages"
+"1"," :
+  "
+"1","installation of package â€˜stringiâ€™ had non-zero exit status"
+"1","
+"
+"2","
+"
+"2","The downloaded source packages are in
+	â€˜C:\Users\ucfnyls\AppData\Local\Temp\73\RtmpMxmAul\downloaded_packagesâ€™"
+"2","
+"
