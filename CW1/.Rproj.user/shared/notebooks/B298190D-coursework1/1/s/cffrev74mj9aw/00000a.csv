@@ -1,6 +1,0 @@
-"0","library(raster)
-"
-"2","package ‘raster’ was built under R version 3.4.4"
-"0","library(rgdal)"
-"0","img<-raster(""Hw/cw_gis.jpg"")"
-"0","plot(img)"
